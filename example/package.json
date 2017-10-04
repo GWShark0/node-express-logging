@@ -1,0 +1,13 @@
+{
+  "name": "node-express-logging-example",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.1",
+    "node-express-logging": "0.0.1"
+  }
+}
