@@ -1,4 +1,4 @@
-# node-express-logging
+# node-express-logging [![npm version](https://badge.fury.io/js/node-express-logging.svg)](https://www.npmjs.com/package/node-express-logging)
 A wrapper around [winston](https://github.com/winstonjs/winston) and [express-winston](https://github.com/bithavoc/express-winston) for logging within Express/NodeJS applications
 
 ### Installation
